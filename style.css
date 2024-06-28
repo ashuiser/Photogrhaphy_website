@@ -19,7 +19,7 @@
     background-color: rgba(255, 255, 255, 0.5);
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
 }
-.btn_one i {
+.btn_one {
     position: absolute;
     font-size: 30px;
     top: 20px;
@@ -78,8 +78,8 @@
     margin-left: 10px;
     font-size: 20px;
 }
-.btn_one:hover i {
-    font-size: 35px;
+.btn_one:hover {
+    font-size: 32px;
     transition: all 0.2s linear;
 }
 .menu ul li:hover {
@@ -95,7 +95,7 @@
     transition: all 0.2s linear;
 }
 .btn_two:hover {
-    font-size: 28px;
+    font-size: 27px;
     transition: all 0.2s linear;
 }
 .btn_two:hover i{
